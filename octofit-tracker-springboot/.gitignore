@@ -1,0 +1,29 @@
+# OctoFit Tracker - Root .gitignore
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# Build outputs
+dist/
+build/
+target/
+
+# Dependencies
+node_modules/
